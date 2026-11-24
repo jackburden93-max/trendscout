@@ -1,0 +1,68 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>TrendScout | Marketplace Intelligence</title>
+<style>
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #101827;
+  color: #ffffff;
+  line-height: 1.7;
+}
+main {
+  max-width: 850px;
+  margin: 100px auto;
+  padding: 30px;
+}
+h1 { font-size: 48px; margin-bottom: 10px; }
+h2 { color: #70d6c1; margin-top: 40px; }
+p { color: #cbd5e1; font-size: 17px; }
+.tag { color: #70d6c1; letter-spacing: 2px; }
+footer { margin-top: 70px; color: #94a3b8; }
+</style>
+</head>
+<body>
+<main>
+<div class="tag">MARKETPLACE INTELLIGENCE</div>
+<h1>TrendScout</h1>
+<p>Discover trends. Understand demand. Find opportunities.</p>
+
+<h2>About TrendScout</h2>
+<p>
+TrendScout is a market research application designed to
+analyse publicly available Etsy marketplace information.
+It aims to identify emerging product trends, monitor listing
+activity, evaluate shop performance indicators and track
+changes in product popularity.
+</p>
+
+<h2>Our Purpose</h2>
+<p>
+TrendScout supports independent commercial research and
+data-driven product decisions by helping identify potential
+marketplace opportunities.
+</p>
+
+<h2>Data and API Usage</h2>
+<p>
+The application is intended to use Etsy's approved API
+endpoints and comply with Etsy's API Terms of Use and
+applicable developer requirements.
+</p>
+
+<h2>Privacy</h2>
+<p>
+This information website does not offer user accounts or
+collect personal information through this page.
+</p>
+
+<footer>
+© 2026 TrendScout. All rights reserved.
+</footer>
+</main>
+</body>
+</html>
